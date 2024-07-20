@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://okencont.github.io/sitemap
+Sitemap: https://okencont.github.io/app/sitemap
+Sitemap: https://okencont.github.io/assets/sitemap
+Sitemap: https://okencont.github.io/css/sitemap
+Sitemap: https://okencont.github.io/includes/sitemap
+Sitemap: https://okencont.github.io/item/sitemap
+Sitemap: https://okencont.github.io/src/sitemap
